@@ -19,4 +19,37 @@ Bet on your favorite turtle and watch them race to the finish line. Will your co
 
 ---
 
-## 🛠 Folder Structure
+## 📁 Folder Structure
+```bash
+turtle-race-game/
+│
+├── turtle_race
+│ ├── init.py
+│ ├── constants.py
+│ ├── screen_setup.py
+│ ├── turtle_setup.py
+│ ├── countdown.py
+│ ├── race.py
+│ ├── main.py
+│
+├── assets/ 
+│ ├── race_win_demo.mp4
+│ ├── race_loss_demo.mp4
+│
+├── requirements.txt
+├── README.md 
+├── LICENSE 
+└── .gitignore
+```
+
+---
+
+## 📦 Requirements
+✅ Python 3.x  
+✅ Turtle module (pre-installed with Python)  
+
+### Install extra libraries (optional)
+```bash
+pip install -r requirements.txt
+
+
