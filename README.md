@@ -85,5 +85,11 @@ python turtle_race/main.py
 ## 📜 License
 This project is licensed under the MIT License - see LICENSE for details.
 
+<h1>Ready to Enjoy?<br>
+-Fork it.<br>
+--Run it.<br>
+----Love it.<br>
+
+
 
 
