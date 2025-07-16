@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code or PyCharm settings (if you use them)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+desktop.ini        # Windows
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+
+# Other build or temp files
+build/
+dist/
+*.bak
+*.tmp
+
+# Ignore any test results or cache
+*.coverage
+.cache/

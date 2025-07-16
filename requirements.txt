@@ -1,0 +1,13 @@
+# Turtle Race Game Requirements 🐢🏁
+# Python Turtle comes built-in with Python (no need to install separately)
+# These are optional if you want to enhance the game
+
+# For sound effects (optional)
+playsound==1.2.2
+
+# For cross-platform compatibility (optional)
+Pillow==10.3.0  # If you use images later
+
+# Time and random modules are built-in, no need to include
+
+# Only include if you later use virtual environments or external libraries
