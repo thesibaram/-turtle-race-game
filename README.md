@@ -14,8 +14,12 @@ Bet on your favorite turtle and watch them race to the finish line. Will your co
 
 ---
 
-## 🎥 Demo
-![Turtle Race Demo](assets/turtle_race_demo.gif)
+## 🏆 Winning Turtle Demo
+[🎥 Watch what happens when your turtle wins the race! 🎉](https://github.com/user-attachments/assets/fe521c6d-69b8-4937-bd83-0c9fa30783c4)
+
+## 💔 Losing Turtle Demo
+[🎥 Here's what it looks like when your turtle loses... 😅](https://github.com/user-attachments/assets/02e5d58f-9d20-4c6c-b31c-e7a4272374cd)
+
 
 ---
 
