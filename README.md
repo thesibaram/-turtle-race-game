@@ -71,9 +71,15 @@ python turtle_race/main.py
 ---
 
 ## 🌱 Concepts Covered
--Python Turtle graphics
--Loops, randomization, and user input
--Modular coding & clean file structure
--Fun beginner project for Python learners
+- Python Turtle graphics
+- Loops, randomization, and user input
+- Modular coding & clean file structure
+- Fun beginner project for Python learners
+  
+---
+
+## 📜 License
+This project is licensed under the MIT License - see LICENSE for details.
+
 
 
