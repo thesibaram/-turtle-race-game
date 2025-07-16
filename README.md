@@ -51,5 +51,29 @@ turtle-race-game/
 ### Install extra libraries (optional)
 ```bash
 pip install -r requirements.txt
+```
+---
+
+## ▶️ How to Run
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/thesibaram/turtle-race-game.git
+cd turtle-race-game
+```
+## 2️⃣ Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+## 3️⃣ Run the simulator:
+```bash
+python turtle_race/main.py
+```
+---
+
+## 🌱 Concepts Covered
+-Python Turtle graphics
+-Loops, randomization, and user input
+-Modular coding & clean file structure
+-Fun beginner project for Python learners
 
 
