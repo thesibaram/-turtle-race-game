@@ -52,10 +52,6 @@ turtle-race-game/
 ✅ Python 3.x  
 ✅ Turtle module (pre-installed with Python)  
 
-### Install extra libraries (optional)
-```bash
-pip install -r requirements.txt
-```
 ---
 
 ## ▶️ How to Run
